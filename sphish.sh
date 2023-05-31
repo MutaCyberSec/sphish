@@ -12,7 +12,7 @@ echo -e "\e[1;34m        Installing All Requirements And Stabilizing The System 
 echo "Action Starts At"
 date
 sleep 1
-apt install python -y
+apt install python3 -y
 apt install git
 apt install python2
 apt install figlet -y
